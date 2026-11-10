@@ -1,0 +1,8 @@
+{
+  "appId": "de.meinapp.aufgaben",
+  "appName": "Aufgaben",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
